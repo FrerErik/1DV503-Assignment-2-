@@ -9,7 +9,7 @@ from mysql.connector.connection import MySQLConnection
 srv = mysql.connector.connect(host='localhost',
                               port='3306',
                               user='root',
-                              passwd='0000HerbertBAilbonds0987',
+                              passwd='root',
                               )
 # Database name
 
